@@ -17,7 +17,6 @@
 ### 📊 GitHub Analytics
 
 <!-- GitHub Streak Stats Card -->
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kaneezfatima428&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak Stats](https://streak-stats.demolab.com?user=kaneezfatima428&theme=dark)](https://git.io/streak-stats)
 <!-- Contribution Graph Card -->
 [![Kaneez's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaneezfatima428&theme=react-dark)](https://github.com/ashutosh0071/github-readme-activity-graph)
