@@ -14,3 +14,10 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaneezfatima428&show_icons=true&theme=radial)
+### 📊 GitHub Analytics
+
+<!-- GitHub Streak Stats Card -->
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kaneezfatima428&theme=dark)](https://git.io/streak-stats)
+
+<!-- Contribution Graph Card -->
+[![Kaneez's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaneezfatima428&theme=react-dark)](https://github.com/ashutosh0071/github-readme-activity-graph)
